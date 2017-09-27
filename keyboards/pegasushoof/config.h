@@ -25,8 +25,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID      0x6050
 #define DEVICE_VER      0x0104
 #define MANUFACTURER    Filco
-#define PRODUCT         Majestouch TKL \\w The Pegasus Hoof
-#define DESCRIPTION     QMK firmware for Majestouch TKL
+#define PRODUCT         Filco Zero TKL (The Pegasus Hoof)
+#define DESCRIPTION     QMK firmware for Majestouch/Zero TKL
 
 /* key matrix size */
 #define MATRIX_ROWS 8
