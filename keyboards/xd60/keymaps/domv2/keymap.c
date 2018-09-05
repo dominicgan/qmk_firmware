@@ -5,11 +5,11 @@
 enum {
   TD_SL_RS = 0
 };
-
+ 
 // tap dance definition
-qk_tap_dance_action_t tap_dance_actions[] = {
-  [TD_SL_RS] = ACTION_TAP_DANCE_DOUBLE(KC_SLSH, KC_RSFT) // tap dance /? && RSFT
-};
+// qk_tap_dance_action_t tap_dance_actions[] = {
+//   [TD_SL_RS] = ACTION_TAP_DANCE_DOUBLE(KC_SLSH, KC_RSFT) // tap dance /? && RSFT
+// };
 
 
 // #ifdef KEYMAP_SECTION_ENABLE
